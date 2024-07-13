@@ -30,3 +30,5 @@ bot.start(async (ctx) => {
 });
 
 bot.launch()
+
+console.log("Bot ish jarayonida ...");
